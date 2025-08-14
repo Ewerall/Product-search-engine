@@ -1,0 +1,3 @@
+fastapi[all]  # all lib for fastapi like pydantic
+requests
+pytest
